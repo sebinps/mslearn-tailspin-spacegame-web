@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/BringIntoPlay/DevOpsPlay/_apis/build/status/sebinps.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/BringIntoPlay/DevOpsPlay/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
